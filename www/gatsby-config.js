@@ -22,6 +22,7 @@ const siteMetadata = {
     {
       url: `https://instagram.com/narative.co`,
     },
+    
     {
       url: `https://www.linkedin.com/company/narative/`,
     },
